@@ -16,7 +16,7 @@ Prerequisites
 A web browser
 Internet connection
 Installation
-No installation is necessary as the tool is hosted online. Simply visit the website link to start using the tool.
+No installation is necessary as the tool is hosted online. Simply visit the website link to start using the tool..
 
 Usage
 Enter the text you wish to edit into the input field.
