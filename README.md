@@ -27,7 +27,7 @@ Capital case
 If you wish to copy the converted text, click the "Copy" button.
 If you wish to clear the input field and start over, click the "Clear" button.
 Contributing
-We welcome contributions to the Text Changer project. If you have any ideas or suggestions, please feel free to create a pull request.
+We welcome contributions to the Text Changer project. If you have any ideas or suggestions, please feel free to create a pull request
 
 
 Acknowledgements
