@@ -31,4 +31,4 @@ We welcome contributions to the Text Changer project. If you have any ideas or s
 
 
 Acknowledgements
-The developers and contributors who have made this project possible.
+The developers and contributors who have made this project possible
