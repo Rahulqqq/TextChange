@@ -1,6 +1,6 @@
 
 ### Text-Change
-A simple and intuitive text editing tool for converting text case, copying, and clearing.
+A simple and intuitive text editing tool for converting text case, copying, and clearing..
 
 ## Features
 Convert text case to:
