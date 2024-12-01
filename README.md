@@ -1,6 +1,9 @@
 
-### Text-Change
+# Text-Change 
+![Screenshot (122)](https://github.com/user-attachments/assets/3aed727b-66b9-41fa-ae86-fe9dc0877ad5)
+
 A simple and intuitive text editing tool for converting text case, copying, and clearing.
+
 
 ## Features
 Convert text case to:
